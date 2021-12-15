@@ -1,0 +1,4 @@
+com/tutorial/mongodbdemo/repository/MovieRepository.class
+com/tutorial/mongodbdemo/model/Movie.class
+com/tutorial/mongodbdemo/controller/MovieController.class
+com/tutorial/mongodbdemo/MongodbDemoApplication.class

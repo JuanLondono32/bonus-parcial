@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tutorial.mongodbdemo.MongodbDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.514 s - in com.tutorial.mongodbdemo.MongodbDemoApplicationTests
