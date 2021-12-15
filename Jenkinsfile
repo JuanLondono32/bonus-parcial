@@ -19,12 +19,6 @@ pipeline {
                 bat "mvn -Dmaven.test.failure.ignore=true compile"
             }
         }
-        stage('Test') {
-            steps {
-                // Run Maven on a Unix agent.
-                bat "mvn -Dmaven.test.failure.ignore=true test"
-            }
-        }
         stage('Package') {
             steps {
                 // Run Maven on a Unix agent.
